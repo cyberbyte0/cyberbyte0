@@ -42,16 +42,6 @@ I am a **Security Analyst** based in Bengaluru, specializing in API Security Tes
   <img src="https://raw.githubusercontent.com/trinib/trinib/main/assets/wave.gif" width="100%" height="2px">
 </div>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cyberbyte0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="cyberbyte0's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberbyte0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/assets/wave.gif" width="100%" height="2px">
-</div>
 
 ## 🚀 Highlighted Achievements
 - 🤖 Built custom Android-based automation frameworks using ADB commands for automated security checks and data extraction.
@@ -62,11 +52,9 @@ I am a **Security Analyst** based in Bengaluru, specializing in API Security Tes
 Here are some of my active and notable projects:
 
 - 🛡️ **[Far_Auto](https://github.com/cyberbyte0/Far_Auto):** A self-contained Android automation platform built in Kotlin.
-- 🐍 **[Small-Python-Projects](https://github.com/cyberbyte0/Small-Python-Projects):** A collection of small, CLI-based Python projects.
-- 🎓 **[Google-Cybersecurity-Professional-Certificate](https://github.com/cyberbyte0/Google-Cybersecurity-Professional-Certificate):** My coursework and resources from the Google Cybersecurity Professional Certificate.
-- 🏫 **[Academic-Project](https://github.com/cyberbyte0/Academic-Project):** My academic project on the "Control and Management of Railway System Connected to Microgrid Stations".
-- 📱 **[ios-jailbrake-test](https://github.com/cyberbyte0/ios-jailbrake-test):** Repository for iOS jailbreak testing and exploration.
+- 📱 **[ios-jailbrake-test](https://github.com/cyberbyte0/ios-jailbrake-test):** Web-Based for iOS jailbreak testing and exploration.
 - 🌐 **[Portfolio-Website](https://github.com/cyberbyte0/Portfolio-Website):** The source code for my professional portfolio website.
+- 🏫 **[Academic-Project](https://github.com/cyberbyte0/Academic-Project):** My academic project on the "Control and Management of Railway System Connected to Microgrid Stations".
 - 📄 **[My-Resume](https://github.com/cyberbyte0/My-Resume):** My resume and professional experience documentation.
 
 ---
