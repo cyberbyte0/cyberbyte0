@@ -16,11 +16,6 @@ I am a **Security Analyst** based in Bengaluru, specializing in API Security Tes
   <a href="mailto:mfareedakram0@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email" /></a>
 </p>
 
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/cyberbyte0/count.svg" alt="Profile Views" />
-</p>
-
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/assets/wave.gif" width="100%" height="2px">
 
 </div>
